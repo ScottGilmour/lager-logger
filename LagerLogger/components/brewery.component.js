@@ -63,7 +63,7 @@ class Brewery extends React.Component {
                   longitude={data.brewery.longitude}
                   zoom={13}
                   size={{ width: 450, height: 300 }}
-                  apiKey={'AIzaSyA1aCfVmHt6vOFsw2x13zLu79j0KC_bZOY'}
+                  apiKey={'negative'}
               />
               </CardItem>
               <CardItem>
